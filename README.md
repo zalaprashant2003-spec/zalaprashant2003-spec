@@ -8,11 +8,11 @@ I enjoy building practical projects and exploring new technologies.
 
 
 ### 🛠️ Tech Stack
-- **Languages:** C, C++, Java, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Frameworks:** Django, Spring Boot  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** C++, Java, Python, 
+- **Web:** HTML, CSS, JavaScript, , React  
+- **Backend / Frameworks:** Django, Spring Boot, .NET 
+- **Database:** MySQL, MongoDB 
+- **Tools:** Git, GitHub,
 
 
 ---
