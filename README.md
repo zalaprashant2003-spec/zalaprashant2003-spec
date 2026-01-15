@@ -1,8 +1,7 @@
-## Hello I am Prashant 
-A Computer Engineering Student
+## 👋 Hello, I'm Prashant  
+🎓 Computer Engineering Student  
 
-I enjoy building practical projects and learning new technologies.  
-Currently focusing on improving my problem-solving and development skills.
+I enjoy building practical projects and exploring new technologies.  
 
 
 ---
