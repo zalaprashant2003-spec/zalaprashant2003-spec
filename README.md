@@ -1,44 +1,43 @@
-# Hi 👋, I'm Prashant Zala
+# Hello World 👋, I'm Prashant Zala
 
 💻 Computer Engineering Student  
 🚀 Passionate about building practical, real-world software solutions  
-🌱 Currently exploring modern web development and scalable systems  
+🤖 Exploring AI/ML, modern web development, and scalable backend systems  
+🌱 Focused on building intelligent applications powered by AI  
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### 💻 Programming Languages
-`C++` `Python` `JavaScript`
+`Python` `JavaScript` `TypeScript` `Java` `C/C++`
 
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `React`
+### 🌐 Full Stack Development
+`React.js` `HTML/CSS` `Responsive Design`  
+`Node.js` `Express.js` `Django` `Spring Boot`
 
-### ⚙️ Backend & Tools
-`Node.js` `Express` `Git` `GitHub`
+### 🤖 AI / ML & LLM Integration
+`OpenAI API Integration` `Prompt Engineering`  
+`AI-powered application development` `LLM-based workflows`
 
 ### 🗄️ Databases
-`MySQL` `MongoDB`
+`MySQL` `MongoDB` `SQLite`
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalaprashant2003-spec&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalaprashant2003-spec&layout=compact&theme=tokyonight)
+### ⚙️ Tools & DevOps
+`Docker` `Git/GitHub` `RESTful APIs` `Postman`
 
 ---
 
 ## 🏆 Goals
-- Contribute to open-source projects
-- Build impactful full-stack applications
+- Contribute to real-world open-source projects  
+- Build AI-powered full-stack applications  
+- Improve system design and backend scalability  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: zalaprashant2003@gmail.com
+- 📧 Email: zalaprashant2003@gmail.com  
 
 ---
 
-### ⚡I enjoy turning ideas into real working applications
+### ⚡ I enjoy turning ideas into real working applications using code + AI
