@@ -1,25 +1,44 @@
-## 👋 Hello, I'm Prashant  
-🎓 Computer Engineering Student  
+# Hi 👋, I'm Prashant Zala
 
-I enjoy building practical projects and exploring new technologies.  
-
-
----
-
-
-### 🛠️ Tech Stack
-- **Languages:** C++, Java, Python, 
-- **Web:** HTML, CSS, JavaScript, , React  
-- **Backend / Frameworks:** Django, Spring Boot, .NET 
-- **Database:** MySQL, MongoDB 
-- **Tools:** Git, GitHub,
-
+💻 Computer Engineering Student  
+🚀 Passionate about building practical, real-world software solutions  
+🌱 Currently exploring modern web development and scalable systems  
 
 ---
 
+## 🧠 Skills & Technologies
 
-### 📫 Connect With Me
-- Email: zalaprashant2003@gmail.com
+### 💻 Programming Languages
+`C++` `Python` `JavaScript`
 
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript` `React`
 
-📌 *Feel free to explore my repositories!*
+### ⚙️ Backend & Tools
+`Node.js` `Express` `Git` `GitHub`
+
+### 🗄️ Databases
+`MySQL` `MongoDB`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalaprashant2003-spec&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalaprashant2003-spec&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Goals
+- Contribute to open-source projects
+- Build impactful full-stack applications
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: zalaprashant2003@gmail.com
+
+---
+
+### ⚡I enjoy turning ideas into real working applications
